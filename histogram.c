@@ -1,3 +1,5 @@
+/*This program draws a frequency histogram of characters appearing in a line*/
+
 #include <stdio.h>
 
 #define MAX_STR_LEN 4096
