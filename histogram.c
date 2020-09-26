@@ -12,7 +12,7 @@ struct String
 
 
 int
-contains(char c, char string[], int len) {
+contains(char c, const char string[], int len) {
 
 	if (len == 0) {
 		return 0;
